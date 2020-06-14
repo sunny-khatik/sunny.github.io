@@ -1,6 +1,7 @@
 # web-development
 
 hello guys
+      i have made this project usinng php and html, javascript, css
       this is project to sell any type of bike and in this project there is a two starting points.
       
       there is a admin side who handles all the site and he/she can add or remove the bikes and upload the images of the bikes and another
